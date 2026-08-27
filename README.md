@@ -39,6 +39,10 @@
 - [Портфолио](https://github.com/JWKIM-LOL/Kim-Jae-Wook) — проекты по анализу данных и кейсы для отбора в OZON
 - [Сертификаты](https://github.com/JWKIM-LOL/Kim-Jae-Wook/tree/main/Сертификаты) — русский язык, математическая статистика, английский и японский языки
 
+
+- [Портфолио](https://codeberg.org/JWKIM-LOL/Kim-Jae-Wook) — проекты по анализу данных и кейсы для отбора в OZON
+- [Сертификаты](https://codeberg.org/JWKIM-LOL/Kim-Jae-Wook/src/branch/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D1%8B) — русский язык, математическая статистика, английский и японский языки
+
 ## 🎓 Образование
 
 - $\textcolor{#0969DA}{\textsf{\textbf{Магистратура}}}$ «Науки о данных», $\textcolor{#0969DA}{\textsf{\textbf{НИУ ВШЭ}}}$, Москва — 09.2024 – 06.2026
